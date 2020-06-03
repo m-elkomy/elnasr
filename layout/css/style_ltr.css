@@ -1,0 +1,14 @@
+.navbar-header{float:left;}
+.navbar-right{float:right !important;}
+.navbar-nav>li{float: left;}
+.about-us .info{text-align: left;}
+.nav-tabs>li{float:left}
+.about-us .tab .tab-content{text-align: left;}
+.about-us .btn{float: left;}
+.our-areas .shuffle{
+    text-align: left;}
+.keep-in-touch .keep{text-align: left;}
+.col-md-offset-2{margin-left:16.66666667%;}
+.featBox{float:left}
+.keep-in-touch .keep div:after{right:80% !important;}
+.asterisk{right:20px;}

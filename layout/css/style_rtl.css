@@ -1,0 +1,22 @@
+.header .links{
+    float: left;
+}
+.header .main .upper-bar .links a:first-child:after{left:-2px;}
+.navbar-header{float:right;}
+.navbar-right{float:left !important;}
+.navbar-nav>li{float: right;}
+.about-us .info{text-align: right;}
+.nav-tabs>li{float:right}
+.about-us .tab .tab-content{text-align: right;}
+.about-us .btn{float: right;}
+.our-areas .shuffle{text-align: right;}
+.keep-in-touch .keep{text-align: right;}
+.col-md-offset-2{margin-right:16.66666667%;}
+.featBox{float:right}
+.keep-in-touch .keep div:after{left:80% !important;}
+.keep-in-touch .keep div:hover:after{width:50px;}
+@media (min-width: 991px) {.testimonials .direct{right:50%;}}
+.asterisk{left:95%}
+.our-areas .shuffle li{float:right}
+.featBox{text-align: right;}
+.contact form .input-group input,.contact textarea{text-align: right;padding-right:50px;}
